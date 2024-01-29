@@ -1,0 +1,15 @@
+*{
+  background-color:rgb(61, 94, 4);
+}
+.flex{
+  display: flex;
+  font-size: small;
+  margin-right: 20px ;
+}
+
+
+.flex img{
+  /* height: 30vh; */
+  margin-right: 10px;
+}
+
